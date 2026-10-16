@@ -1,7 +1,7 @@
 # 🔎 Beyond Filenames
 ### Can a computer find a file when you've forgotten its name?
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/beyond-filenames/blob/main/Beyond_Filenames_Benchmark.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayeshashafique018/beyond-filenames/blob/main/Beyond_Filenames_Benchmark.ipynb)
 
 We all have files called `final_final_v3.docx`, `IMG_0042.png` or `bas_kar_do.pdf`.
 When we need them later, we remember **what was inside**, not what we named them.
