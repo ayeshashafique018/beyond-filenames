@@ -1,0 +1,8 @@
+rank-bm25
+sentence-transformers
+python-docx
+pymupdf
+pytesseract
+pandas
+matplotlib
+scikit-learn

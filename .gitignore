@@ -1,0 +1,5 @@
+fake_laptop/
+__pycache__/
+venv/
+index/
+results.zip
